@@ -1,6 +1,4 @@
-<a href="https://tenor.com/view/cat-kedi-street-view-purple-gif-14090106588156688762">
-  <img src="https://media.tenor.com/abcdef123456789.gif" width="300" alt="Cat GIF">
-</a>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 ## Ayakiro's Here 🔥
 ### I am a Linux developer, I create desktop applications and develop web applications.
