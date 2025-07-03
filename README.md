@@ -11,7 +11,12 @@ Skills: Python development || C++ || JS || HTML+CSS || VUE / REACT
 </a>
 
 ## Languages
-python |  <img src="python.svg" width="40" height="40" alt="python">
+Python |  <img src="python.svg" width="40" height="40" alt="python">
+C++ |  <img src="cpp.svg" width="40" height="40" alt="python">
+CSS & HTML |  <img src="html.svg" width="40" height="40" alt="python"> / <img src="css.svg" width="40" height="40" alt="python">
+JS |  <img src="js.svg" width="40" height="40" alt="python">
+VUE |  <img src="vue.svg" width="40" height="40" alt="python">
+REACT |  <img src="react.svg" width="40" height="40" alt="python">
 
 
 ## Another info
