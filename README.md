@@ -5,19 +5,13 @@
 
 
 ## social network
-<a class="hidden_text" href="https://t.me/Ayakiro">
+<a style="color: transparent; text-decoration: none;" class="hidden_text" href="https://t.me/Ayakiro">
   <img src="image.png" width="40" height="40" alt="Telegram">
 </a>
-<a class="hidden_text" href="https://discordapp.com/users/1ayakiro1">
+<a style="color: transparent; text-decoration: none;" class="hidden_text" href="https://discordapp.com/users/1ayakiro1">
   <img src="discord.svg" width="40" height="40" alt="Discord">
 </a>
 
-<style>
-.hidden-text {
-    color: transparent;
-    text-decoration: none;
-}
-</style>
 
 ## Languages
 <img src="python.svg" width="40" height="40" alt="python">   <img src="cpp.svg" width="40" height="40" alt="python">   <img src="html.svg" width="40" height="40" alt="python">   <img src="css.svg" width="40" height="40" alt="python">   <img src="js.svg" width="40" height="40" alt="python">   <img src="vue.svg" width="40" height="40" alt="python">   <img src="react.svg" width="40" height="40" alt="python"> 
