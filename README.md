@@ -2,7 +2,6 @@
 ### I am a Linux developer, I create desktop applications and develop web applications.
 #### In addition, from time to time I work on neural networks and simulations in UE5.
 
-Skills: Python development || C++ || JS || HTML+CSS || VUE / REACT 
 
 
 ## social network
