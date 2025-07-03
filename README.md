@@ -1,10 +1,10 @@
 <img src="caty.gif" height="350" width="860" />
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
 
 
 ## Ayakiro's Here 🔥
 ### I am a Linux developer, I create desktop applications and develop web applications.
-#### In addition, from time to time I work on neural networks and simulations in UE5.
+#### In addition, from time to time I work on neural networks and simulations in UE5. <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 
 
