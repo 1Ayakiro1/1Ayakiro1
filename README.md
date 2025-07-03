@@ -8,6 +8,9 @@
 <a href="https://t.me/Ayakiro">
   <img src="image.png" width="40" height="40" alt="Telegram">
 </a>
+<a href="https://discordapp.com/users/1ayakiro1">
+  <img src="discord.png" width="40" height="40" alt="Discord">
+</a>
 
 ## Languages
 <img src="python.svg" width="40" height="40" alt="python">   <img src="cpp.svg" width="40" height="40" alt="python">   <img src="html.svg" width="40" height="40" alt="python">   <img src="css.svg" width="40" height="40" alt="python">   <img src="js.svg" width="40" height="40" alt="python">   <img src="vue.svg" width="40" height="40" alt="python">   <img src="react.svg" width="40" height="40" alt="python"> 
