@@ -11,12 +11,13 @@ Skills: Python development || C++ || JS || HTML+CSS || VUE / REACT
 </a>
 
 ## Languages
-<p> Python |  <img src="python.svg" width="40" height="40" alt="python"> </p> 
-C++ |  <img src="cpp.svg" width="40" height="40" alt="python"> \n
-CSS & HTML |  <img src="html.svg" width="40" height="40" alt="python"> / <img src="css.svg" width="40" height="40" alt="python"> \n
-JS |  <img src="js.svg" width="40" height="40" alt="python"> \n
-VUE |  <img src="vue.svg" width="40" height="40" alt="python"> \n
-REACT |  <img src="react.svg" width="40" height="40" alt="python">
+<p> Python |  <img src="python.svg" width="30" height="30" alt="python"> </p> 
+<br>
+<p> C++ |  <img src="cpp.svg" width="30" height="30" alt="python"> </p>
+<p> CSS & HTML |  <img src="html.svg" width="30" height="30" alt="python"> / <img src="css.svg" width="30" height="30" alt="python"> </p> 
+<p> JS |  <img src="js.svg" width="30" height="30" alt="python"> </p> 
+<p> VUE |  <img src="vue.svg" width="30" height="30" alt="python"> </p> 
+<p> REACT |  <img src="react.svg" width="30" height="30" alt="python"> </p> 
 
 
 ## Another info
