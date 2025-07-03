@@ -1,6 +1,4 @@
-<a href="https://www.pinterest.com/pin/39476934229190472/">
-  <img src="https://i.pinimg.com/originals/пример.gif" width="300" alt="Пиксель-арт украшение">
-</a>
+<div class="tenor-gif-embed" data-postid="14090106588156688762" data-share-method="host" data-aspect-ratio="1.90076" data-width="100%"><a href="https://tenor.com/view/cat-kedi-street-view-purple-gif-14090106588156688762">Cat Kedi GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Ayakiro's Here 🔥
 ### I am a Linux developer, I create desktop applications and develop web applications.
