@@ -9,7 +9,7 @@
   <img src="image.png" width="40" height="40" alt="Telegram">
 </a>
 <a href="https://discordapp.com/users/1ayakiro1">
-  <img src="discord.png" width="40" height="40" alt="Discord">
+  <img src="discord.svg" width="40" height="40" alt="Discord">
 </a>
 
 ## Languages
