@@ -12,7 +12,7 @@ Skills: Python development || C++ || JS || HTML+CSS || VUE / REACT
 
 ## Languages
 <a href="#">
-  <img src="python.png" width="40" height="40" alt="Telegram">
+  <img src="python.svg" width="40" height="40" alt="python">
 </a>
 
 
