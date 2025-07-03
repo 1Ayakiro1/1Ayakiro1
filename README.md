@@ -1,4 +1,4 @@
-<img src="caty.gif" height="350" width="860" />
+<img src="caty.gif" height="400" width="860" />
 
 
 
