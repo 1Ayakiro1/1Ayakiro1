@@ -6,7 +6,7 @@ Skills: Python development || C++ || JS || HTML+CSS || VUE / REACT
 
 
 
-[![Telegram](assets/image.png)](https://t.me/Ayakiro)
+[![Telegram](image.png)](https://t.me/Ayakiro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Ayakiro1)](https://github.com/anuraghazra/github-readme-stats)
 
