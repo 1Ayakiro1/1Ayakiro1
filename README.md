@@ -7,7 +7,8 @@ Skills: Python development || C++ || JS || HTML+CSS || VUE / REACT
 
 
 [<img src='https://icons8.ru/icon/oWiuH0jFiU0R/telegram-app"></path>
-</svg>' alt='github' height='40'>](https://github.com/1Ayakiro1)  [<img src='https://icons8.ru/icon/oWiuH0jFiU0R/telegram-app' alt='telegram' height='40'>](https://t.me/Ayakiro)  
+</svg>' alt='github' height='40'>](https://github.com/1Ayakiro1)  [<img src='![image](https://github.com/user-attachments/assets/0ebf7429-4436-4bde-8fab-01cfba5a3a8d)
+' alt='telegram' height='40'>](https://t.me/Ayakiro)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Ayakiro1)](https://github.com/anuraghazra/github-readme-stats)
 
