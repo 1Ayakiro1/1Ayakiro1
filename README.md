@@ -10,6 +10,9 @@ Skills: Python development || C++ || JS || HTML+CSS || VUE / REACT
   <img src="image.png" width="40" height="40" alt="Telegram">
 </a>
 
+## Languages
+| <img src="python.png" width="32" height="32" alt="python">
+
 
 ## Another info
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Ayakiro1)](https://github.com/anuraghazra/github-readme-stats)
