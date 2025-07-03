@@ -1,4 +1,6 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=39476934229190472" height="438" width="600" frameborder="0" scrolling="no" ></iframe>
+<a href="https://www.pinterest.com/pin/39476934229190472/">
+  <img src="https://i.pinimg.com/originals/пример.gif" width="300" alt="Пиксель-арт украшение">
+</a>
 
 ## Ayakiro's Here 🔥
 ### I am a Linux developer, I create desktop applications and develop web applications.
