@@ -5,7 +5,7 @@
 Skills: Python development || C++ || JS || HTML+CSS || VUE / REACT 
 
 
-
+## social network
 <a href="https://t.me/Ayakiro">
   <img src="image.png" width="40" height="40" alt="Telegram">
 </a>
