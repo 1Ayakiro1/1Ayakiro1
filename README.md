@@ -11,7 +11,7 @@ Skills: Python development || C++ || JS || HTML+CSS || VUE / REACT
 </a>
 
 ## Languages
-| <img src="python.png" width="32" height="32" alt="python">
+<p>|<p/> <img src="python.png" width="32" height="32" alt="python">
 
 
 ## Another info
