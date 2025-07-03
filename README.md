@@ -1,4 +1,4 @@
-<img src="https://tenor.com/view/cat-kedi-street-view-purple-gif-14090106588156688762" height="40" />
+<img src="caty.gif" height="40" />
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 
