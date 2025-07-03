@@ -1,4 +1,6 @@
-![Cat GIF](https://media.tenor.com/abcdef123456789.gif)
+<a href="https://tenor.com/view/cat-kedi-street-view-purple-gif-14090106588156688762">
+  <img src="https://media.tenor.com/abcdef123456789.gif" width="300" alt="Cat GIF">
+</a>
 
 ## Ayakiro's Here 🔥
 ### I am a Linux developer, I create desktop applications and develop web applications.
