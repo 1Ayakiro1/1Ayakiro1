@@ -1,3 +1,5 @@
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=39476934229190472" height="438" width="600" frameborder="0" scrolling="no" ></iframe>
+
 ## Ayakiro's Here 🔥
 ### I am a Linux developer, I create desktop applications and develop web applications.
 #### In addition, from time to time I work on neural networks and simulations in UE5.
