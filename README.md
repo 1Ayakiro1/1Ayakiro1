@@ -1,4 +1,4 @@
-<img src="caty.gif" height="40" />
+<img src="caty.gif" height="80" width="240" />
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 
