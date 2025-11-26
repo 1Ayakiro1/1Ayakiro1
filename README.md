@@ -1,5 +1,5 @@
 <div align="center">
-![calm](calm.gif)
+<img src="calm.gif" height="400" width="860" />
 
 
 # Ayakiro's Here! 🔥
