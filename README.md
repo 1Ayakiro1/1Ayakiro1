@@ -63,20 +63,6 @@ I'm a passionate developer who loves to build innovative solutions and create im
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayakiro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayakiro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ayakiro&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 ### 🚀 [Aetheris Ecosystem](https://github.com/ayakiro/Aetheris-shadcn)
