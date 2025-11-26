@@ -1,6 +1,7 @@
 <div align="center">
+<img src="caty.gif" height="400" width="860" />
 
-# 👋 Hi there, I'm Ayakiro
+# Ayakiro's Here! 🔥
 
 **Young Web Developer | ML Engineer | 3D Artist**
 
