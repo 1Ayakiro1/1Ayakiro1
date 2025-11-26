@@ -16,7 +16,7 @@
 
 </div>
 
-## 🚀 About Me
+## About Me <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 I'm a passionate developer who loves to build innovative solutions and create immersive digital experiences. Whether it's crafting elegant web applications, diving into machine learning, or bringing 3D worlds to life, I'm always exploring new technologies and pushing boundaries.
 
