@@ -1,5 +1,5 @@
 <div align="center">
-![G3PQg0bXwAAjRZF](/G3PQg0bXwAAjRZF.gif)
+![calm](calm.gif)
 
 
 # Ayakiro's Here! 🔥
