@@ -1,5 +1,5 @@
 <div align="center">
-<img src="caty.gif" height="400" width="860" />
+<img src="G3PQg0bXwAAjRZF.gif" height="400" width="860" />
 
 # Ayakiro's Here! 🔥
 
