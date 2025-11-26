@@ -1,5 +1,6 @@
 <div align="center">
-<img src="G3PQg0bXwAAjRZF.gif" height="400" width="860" />
+![G3PQg0bXwAAjRZF](https://github.com/user-attachments/assets/ec427ef8-e99f-49d6-8163-3ebd92a1ef42)
+
 
 # Ayakiro's Here! 🔥
 
