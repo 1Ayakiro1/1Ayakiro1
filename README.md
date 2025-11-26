@@ -1,5 +1,5 @@
 <div align="center">
-![G3PQg0bXwAAjRZF](https://github.com/user-attachments/assets/ec427ef8-e99f-49d6-8163-3ebd92a1ef42)
+![G3PQg0bXwAAjRZF](/G3PQg0bXwAAjRZF.gif)
 
 
 # Ayakiro's Here! 🔥
