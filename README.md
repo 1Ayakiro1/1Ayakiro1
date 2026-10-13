@@ -4,7 +4,7 @@
 
 # Ayakiro's Here! 🔥
 
-**Young Web Developer | ML Engineer | 3D Artist**
+**Web Developer | ML Engineer | BCI Developer**
 
 *Creating worlds and spaces for you, turning dreams and fantasies into crystal-clear reality*
 
@@ -19,9 +19,9 @@
 
 ## About Me <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
-I'm a passionate developer who loves to build innovative solutions and create immersive digital experiences. Whether it's crafting elegant web applications, diving into machine learning, or bringing 3D worlds to life, I'm always exploring new technologies and pushing boundaries.
+I'm a passionate developer who loves to build innovative solutions and create immersive digital experiences. Whether it's crafting elegant web applications, diving into machine learning, or bringing 3D worlds to life, I'm always exploring new technologies and pushing boundaries. Just now i creating the Qualia Engine for BCI technologies
 
-**Founder and Developer of the Aetheris Ecosystem**
+**Founder and Developer of the NerveGears Ecosystem**
 
 ---
 
@@ -88,7 +88,7 @@ I'm a passionate developer who loves to build innovative solutions and create im
 
 ## 📈 Current Focus
 
-- 🔥 Building and expanding the **Aetheris Ecosystem**
+- 🔥 Building and expanding the **NerveGears ecosystem**
 - 🎓 Learning advanced ML techniques
 - 🎨 Creating stunning 3D environments
 - 💡 Exploring new web technologies
